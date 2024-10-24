@@ -1,6 +1,12 @@
-# test
-这是一个测试存储库，我正在测试它的使用。
-我又来测试它了。我在网页上修改
-
-
-我再修改下
+Welcome to ServoSDK-Arduino, an open-source software development kit designed specifically for the Energize Lab Servo. This SDK provides multi-platform servo usage examples and motion control demos based on Arduino, aimed at helping users easily and quickly master the use of various models, including the EM-2030. It is strongly recommended to refer to the corresponding memory table parameter for understanding and verification.
+- Supported Protocols: Energize Lab Servo Communication Protocol
+- Supported Memory Tables: Basic Memory Table
+- Supported Servos: EM Series, EH-3030
+- Supported Programming Languages:
+  - Arduino: Includes basic libraries, compatible Example and Demo across multiple platforms.
+- File Structure: ServoSDK-Arduino -> src & examples (Memory Table -> Example & Demo)  
+- File Description:
+  - Src: Basic libraries, including instruction generation and parsing for the entire servo memory table.
+  - Example: Demonstrates the use of Ping instruction, read data instruction, write data instruction, sync write instruction, parameter reset instruction, factory reset instruction, and reboot instruction.
+  - Demo: Demonstrates servo motion in different control modes.
+  - FAQ: FAQs related to this project and platform-specific FAQs.
