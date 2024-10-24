@@ -28,4 +28,4 @@
 - Servo and MCU Communication
   - To enable communication between the Energize Lab Servo and the MCU, a UART to TTL module is needed; if the MCU operates at 5V, a level shifting module is also necessary.
 
-**Please visit [ServoSDK](https://github.com/EnergizeLab/ServoSDK) for more usage details..**
+***Please visit [ServoSDK](https://github.com/EnergizeLab/ServoSDK) for more usage details..***
