@@ -9,7 +9,6 @@ A: This depends on the situatio
 - If the new instruction affects its motion,e.g., a motion instruction.:
     - If the new position is the same as the previous motion position, the instruction will not be executed.
     - If the new position is different from the previous motion position, the current instruction will be interrupted immediately to execute the new instruction.
-
 ## Q3: After running the example code, the error “This is not a complete response package!” pops up.
 A: This depends on the situation:
 - If there is no response package data, it might be because the servo ID has not been changed to 1 or the servo is not connected. You can verify this using ServoStudio.

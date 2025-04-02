@@ -4,8 +4,8 @@
 ## Supported
 - Protocols:
   - Energize Lab Servo Communication Protocol  
-- Memory Tables: 
-  - Primary Memory Table 
+- Memory Tables:   - Primary Memo
+ry Table 
 - Servos:  
   - EM Series, EH-3030 
 - Programming Languages:e code, with compatible examples and demos across multiple platforms.
