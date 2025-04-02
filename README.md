@@ -8,8 +8,7 @@
   - Primary Memory Table 
 - Servos:  
   - EM Series, EH-3030 
-- Programming Languages:
-  - Arduino: Includes source code, with compatible examples and demos across multiple platforms.
+- Programming Languages:e code, with compatible examples and demos across multiple platforms.
 
 ## Repository
 - File Description: 
